@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "pt-br"
 title = "My New Hugo Site"
+theme = "simplog"
 colorTheme = "default"
+author = "Tet"
+description = "Jovem de 24 anos tentando ser jornalista."
