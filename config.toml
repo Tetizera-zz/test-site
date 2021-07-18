@@ -1,6 +1,7 @@
 baseURL = "https://ecstatic-golick-b291f7.netlify.app"
 languageCode = "pt-br"
-title = "My New Hugo Site"
+title = "Tet's Blog"
+themesDir = "themes"
 theme = "simplog"
 author = "Tet"
 description = "Jovem de 24 anos tentando ser jornalista."
