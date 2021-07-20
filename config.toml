@@ -5,6 +5,16 @@ themesDir = "themes"
 theme = "simplog"
 author = "Tet"
 description = "Jovem de 24 anos tentando ser jornalista."
+sectionPagesMenu = "main"
 
 [params]
     colorTheme = "default"
+
+menu:
+    main:
+    - identifier: about
+    name: This is the About section
+    title: About page
+    url: /about/
+
+    
