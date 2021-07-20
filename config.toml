@@ -9,12 +9,3 @@ sectionPagesMenu = "main"
 
 [params]
     colorTheme = "default"
-
-menu:
-    main:
-    - identifier: about
-    name: This is the About section
-    title: About page
-    url: /about/
-
-    
