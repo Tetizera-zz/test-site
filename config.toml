@@ -4,7 +4,6 @@ title = "Tet's Blog"
 themesDir = "themes"
 theme = "hyde"
 author = "Tet"
-description = "Jovem de 24 anos tentando ser jornalista."
 sectionPagesMenu = "main"
 
 [[menu.main]]
@@ -15,3 +14,4 @@ weight     = 110
 
 [params]
     themeColor = "theme-base-08"
+    description = "Jovem de 24 anos tentando ser jornalista."
