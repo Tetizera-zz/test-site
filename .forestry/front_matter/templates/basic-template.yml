@@ -17,3 +17,5 @@ fields:
     time_format: 
     display_utc: false
   description: data do post.
+pages:
+- content/posts/teste.md
