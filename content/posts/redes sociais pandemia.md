@@ -1,7 +1,7 @@
 ---
 title: "Como a pandemia mostrou como são importantes as comunidades virtuais: do WhatsApp ao Discord, trabalhamos, convivemos e nos abraçamos por redes"
 date: 2021-07-11 13:04:00 +0300
-weight: 
+
 ---
 
 Desde que a pandemia do COVID-19 começou no Brasil e no mundo, a principal medida preventiva foram o distanciamento e o isolamento sociais, às vezes impostos por governos, às vezes voluntários (caso do Brasil, que nunca teve lockdown). Hoje, mesmo com os avanços na vacinação em vários países, [nosso país está sendo lento na vacinação](https://g1.globo.com/bemestar/coronavirus/noticia/2021/06/26/vacinacao-lenta-nao-zera-pandemia-veja-o-que-dados-de-chile-uruguai-eua-e-israel-ensinam-para-o-brasil.ghtml). Enquanto isso não passa, as pessoas se refugiam em suas casas, e, quem pode, trabalha de forma remota. Desde que a pandemia começou, companhias que já trabalhavam remotamente, como muitas empresas de tecnologia, ou proprietárias das agora essenciais ferramentas remotas, [tiveram lucro recorde](https://www.theguardian.com/business/2021/may/01/its-just-the-beginning-covid-push-to-digital-boosts-big-tech-profits). Muitas empresas procuraram se adaptar ao cenário da pandemia e disponibilizar hardware e software nesse contexto. Comunidades no Facebook, a maior rede social do planeta, Reddit, conhecido pelos seus fóruns, e no Discord, onde pessoas podem criar grupos, também foram impactadas.
