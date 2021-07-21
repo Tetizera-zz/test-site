@@ -2,7 +2,7 @@ baseURL = "https://ecstatic-golick-b291f7.netlify.app"
 languageCode = "pt-br"
 title = "Tet's Blog"
 themesDir = "themes"
-theme = "simplog"
+theme = "hyde"
 author = "Tet"
 description = "Jovem de 24 anos tentando ser jornalista."
 sectionPagesMenu = "main"
@@ -14,4 +14,4 @@ url        = "/posts/"
 weight     = 110
 
 [params]
-    colorTheme = "default"
+    themeColor = "theme-base-08"
