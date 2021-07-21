@@ -1,4 +1,4 @@
-baseURL = "https://www.tetizeraz.online"
+baseURL = "https://ecstatic-golick-b291f7.netlify.app/"
 languageCode = "pt-br"
 title = "Tet's Blog"
 themesDir = "themes"
