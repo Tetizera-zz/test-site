@@ -18,4 +18,4 @@ Acho que a música do Bo Burnham, "[Welcome to the Internet](https://www.youtube
 
 Eu não sou uma pessoa especializada em comunicações, psicologia ou algo no meio dessas duas ciências, mas  uma coisa eu tenho certeza: As redes sociais estão dando uma falsa auto-estima e uma falsa sensação de auto-realização.
 
-Eu espero que eu consiga melhores argumentos se eu eventualmente tiver que defender que o subreddit não permita o mesmo discurso que é tão comum no Twitter, onde ódio gera ódio, mas sim ser um ambiente de discussões civis e agradáveis, onde as pessoas não briguem, mas dialoguem. Vejo que a realização verdadeira se dará assim.
+Eu espero que eu consiga melhores argumentos se eu eventualmente tiver que defender que o subreddit não permita o mesmo discurso que é tão comum no Twitter, onde ódio gera ódio. Eu, como uma pessoa que ama comunidades, espero manter um ambiente de discussões civis e agradáveis, onde as pessoas não briguem, mas dialoguem. Vejo que a realização verdadeira se dará assim.
