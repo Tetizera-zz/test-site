@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2021-07-28T03:00:00Z
 draft = true
 title = "Devemos permitir a celebração de depredação em espaços públicos na Internet?"
 
