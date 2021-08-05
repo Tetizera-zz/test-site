@@ -1,7 +1,7 @@
 ---
 title: "A leitura agora é compartilhada com milhares de pessoas: como ler ao vivo está aumentando a venda de livros e até ensinando Karl Marx"
 date: 2021-07-11 13:04:00 +0300
-draft: true
+draft: false
 
 ---
 
