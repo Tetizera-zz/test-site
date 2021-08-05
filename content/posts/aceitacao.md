@@ -1,6 +1,6 @@
 ---
-date = 2021-08-05T19:00:00Z
 title = "Aceitação"
+date = 2021-08-05T18:00:00Z
 
 ---
 # Oração da serenidade
