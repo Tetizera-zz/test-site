@@ -1,8 +1,8 @@
-+++
+---
 date = 2021-08-05T19:00:00Z
 title = "Aceitação"
 
-+++
+---
 # Oração da serenidade
 
 > Concedei-nos Senhor, a serenidade necessária.
