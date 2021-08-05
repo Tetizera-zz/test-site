@@ -18,4 +18,5 @@ fields:
     display_utc: false
   description: data do post.
 pages:
+- content/posts/aceitacao.md
 - content/posts/devemos-permitir-a-celebracao-de-depredacao-em-espacos-publicos-na-internet.md
