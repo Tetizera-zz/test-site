@@ -50,4 +50,6 @@ Agradeço ao [subreddit r/brasil](https://www.reddit.com/r/brasil/) e ao Antenor
 
 Também agradeço o [Manual do Usuário](manualdousuario.net/) e seus usuários e escritores, principalmente o [Tecnocracia](https://manualdousuario.net/series/tecnocracia/), podcast do Manual do Usuário na questão de tecnocracia (pun intended).
 
+Também quero agradecer a todos que deram retweet ou leram este post. É bastante importante o post, mas também é importante a discussão que ele pode gerar. Acredito que a "Questão Tabata" pode ter um debate mai civil e elaborado, sem o mindset twitteiro que tanto critico.
+
  Acredito que estou aprendendo mais sobre política e me tornando um melhor indivíduo e cidadão com consciência política.
