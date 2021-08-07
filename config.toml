@@ -12,6 +12,12 @@ name       = "Posts"
 url        = "/posts/"
 weight     = 110
 
+[[menu.main]]
+identifier = "censo"
+name       = "Censo Discord r/brasil"
+url        = "/Censo/"
+weight     = 220
+
 [params]
     themeColor = "theme-base-08"
     description = "Jovem de 24 anos tentando ser jornalista."

@@ -2,10 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Tet&#39;s Blog</title>
-    <link>https://ecstatic-golick-b291f7.netlify.app/about/</link>
+    <link>https://www.tetizeraz.online/about/</link>
     <description>Recent content in About on Tet&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 17 Jul 2021 20:59:07 -0300</lastBuildDate><atom:link href="https://ecstatic-golick-b291f7.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 20:59:07 -0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example blog post</title>
+      <link>https://www.tetizeraz.online/about/tripetto/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tetizeraz.online/about/tripetto/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
