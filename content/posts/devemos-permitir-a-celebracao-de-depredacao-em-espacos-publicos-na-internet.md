@@ -1,9 +1,10 @@
-+++
-date = 2021-07-28T03:00:00Z
-draft = true
-title = "Devemos permitir a celebração de depredação em espaços públicos na Internet?"
+---
+title: "Aceitação"
+date: 2021-08-05 16:00:00 +0300
+draft: true
 
-+++
+---
+
 Queria trazer aqui uma discussão sobre Borba Gatos e vidraças quebrada e como isso é visto na moderação do r/brasil. Ou pelo menos, como foi discutido.
 
 Quando rolou a ação no [Sábado da queima do Borba Gato](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/07/24/estatua-de-borba-gato-e-destruida-por-incendio-em-sao-paulo.htm), eu unilateralmente [decidi remover, mas não punir](https://www.reddit.com/r/brasil/comments/oqx46n/manifestantes_atearam_fogo_em_est%C3%A1tua_do/h6fwjv2/), comentários celebrando ou advogando a queima que aconteceu. Até aí tudo bem. Mas hoje, um moderador disse que eu estava tendo um viés contra "ação direta" - coisa de anarquista e gente de esquerda revolucionária - como no caso dos comentários que removi. Após, rolou a acusação do meu viés, que admito não adotar um pensamento tão revolucionário assim.
