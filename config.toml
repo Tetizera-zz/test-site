@@ -10,13 +10,14 @@ sectionPagesMenu = "main"
 identifier = "posts"
 name       = "Posts"
 url        = "/posts/"
-weight     = 110
+weight     = 10
 
 [[menu.main]]
-identifier = "censo"
-name       = "Censo Discord r/brasil"
-url        = "/Censo/"
-weight     = 220
+identifier = "bipolar"
+name       = "Bipolaridade"
+url        = "/bipolar/"
+weight     = 20
+
 
 [params]
     themeColor = "theme-base-08"

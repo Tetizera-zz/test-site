@@ -23,30 +23,19 @@ Mas antes de sair falando coisas negativas, eu quero começar com um elogio e um
       <pubDate>Thu, 05 Aug 2021 16:00:00 +0300</pubDate>
       
       <guid>https://www.tetizeraz.online/posts/aceitacao/</guid>
-      <description>Oração da serenidade  Concedei-nos Senhor, a serenidade necessária.
-  Para aceitar as coisas que não podemos modificar,
-  Coragem para modificar aquelas que podemos,
-  E sabedoria para distinguir uma das outras.
- O texto é um trecho da oração da serenidade, dita pelo teólogo americano Reinhold Niebuhr. Há muitas versões dela, mas eu sigo esta.</description>
-    </item>
-    
-    <item>
-      <title>Aceitação</title>
-      <link>https://www.tetizeraz.online/posts/devemos-permitir-a-celebracao-de-depredacao-em-espacos-publicos-na-internet/</link>
-      <pubDate>Thu, 05 Aug 2021 16:00:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/posts/devemos-permitir-a-celebracao-de-depredacao-em-espacos-publicos-na-internet/</guid>
-      <description>Queria trazer aqui uma discussão sobre Borba Gatos e vidraças quebrada e como isso é visto na moderação do r/brasil. Ou pelo menos, como foi discutido.
-Quando rolou a ação no Sábado da queima do Borba Gato, eu unilateralmente decidi remover, mas não punir, comentários celebrando ou advogando a queima que aconteceu. Até aí tudo bem. Mas hoje, um moderador disse que eu estava tendo um viés contra &amp;ldquo;ação direta&amp;rdquo; - coisa de anarquista e gente de esquerda revolucionária - como no caso dos comentários que removi.</description>
-    </item>
-    
-    <item>
-      <title>A leitura agora é compartilhada com milhares de pessoas: como ler ao vivo está aumentando a venda de livros e até ensinando Karl Marx</title>
-      <link>https://www.tetizeraz.online/posts/leitura-sprint/</link>
-      <pubDate>Sun, 11 Jul 2021 13:04:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/posts/leitura-sprint/</guid>
-      <description>A leitura é caracterizada por ser normalmente uma atividade isolada: lemos sentados ou deitados, talvez tomando um café ou chá, e pensando sobre o texto enquanto lemos. Mas também é comum que pessoas leiam para você, seja trechos oulivros inteiros, principalmente para bebês e crianças. Antes da pandemia, livrarias tinham dias dedicados à leitura de um conto de fadas ou uma fábula para uma plateia de pais e crianças. Com o YouTube, essa atividade não ficou limitada às livrarias, permitindo ouvir alguém narrar um livro curto.</description>
+      <description>&lt;h1 id=&#34;oração-da-serenidade&#34;&gt;Oração da serenidade&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Concedei-nos Senhor, a serenidade necessária.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Para aceitar as coisas que não podemos modificar,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coragem para modificar aquelas que podemos,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;E sabedoria para distinguir uma das outras.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -59,12 +48,12 @@ Quando rolou a ação no Sábado da queima do Borba Gato, eu unilateralmente dec
     </item>
     
     <item>
-      <title>Example blog post</title>
-      <link>https://www.tetizeraz.online/about/tripetto/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://www.tetizeraz.online/bipolar/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.tetizeraz.online/about/tripetto/</guid>
-      <description></description>
+      <guid>https://www.tetizeraz.online/bipolar/test/</guid>
+      <description></description>
     </item>
     
   </channel>
