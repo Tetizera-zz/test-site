@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tet&#39;s Blog</title>
-    <link>https://www.tetizeraz.online/</link>
-    <description>Recent content on Tet&#39;s Blog</description>
+    <title>Computer-witches on Tet&#39;s Blog</title>
+    <link>https://www.tetizeraz.online/computer-witch/</link>
+    <description>Recent content in Computer-witches on Tet&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 10 Aug 2021 18:00:00 +0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 18:00:00 +0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/computer-witch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OS Horoscope / Horóscopo de SO</title>
       <link>https://www.tetizeraz.online/computer-witch/computer-horoscope/</link>
@@ -14,85 +14,6 @@
       
       <guid>https://www.tetizeraz.online/computer-witch/computer-horoscope/</guid>
       <description>TripettoClassic.run({ element: document.getElementById(&amp;ldquo;tripetto&amp;rdquo;), definition: {&amp;ldquo;name&amp;rdquo;:&amp;ldquo;r/CasualConversation 2021 census&amp;rdquo;,&amp;ldquo;language&amp;rdquo;:&amp;ldquo;en&amp;rdquo;,&amp;ldquo;keywords&amp;rdquo;:[&amp;ldquo;census&amp;rdquo;,&amp;ldquo;censo&amp;rdquo;],&amp;ldquo;clusters&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;5d8dea6e16e29a7345dfa4c3df9b378f556140a2c72edb252367a03a3e72b786&amp;rdquo;,&amp;ldquo;nodes&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;2d44cb745f8847fe397f18ddd3fbc06f8c44f59bf28ef9a5fb40b34d41864e56&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;👋 Hi! Welcome to the r/CasualConversation 2021 census.&amp;rdquo;,&amp;ldquo;nameVisible&amp;rdquo;:true,&amp;ldquo;description&amp;rdquo;:&amp;ldquo;This survey includes 14 questions and a feedback form.&amp;quot;}]},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;4ad7b1d34679edb198ae87954749fcad4d3e5e6919fcec27544a3f7fbabaae55&amp;rdquo;,&amp;ldquo;nodes&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;de8973a07251f49168b485041b79974bbb3056731bc92280e95657fea5cc05c5&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;What should we call you?&amp;rdquo;,&amp;ldquo;nameVisible&amp;rdquo;:true,&amp;ldquo;slots&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;fd037f306b32a9fdcfb88fbcd0cac140ab31da4d97ae533c8966e1b48eafc25b&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;string&amp;rdquo;,&amp;ldquo;kind&amp;rdquo;:&amp;ldquo;static&amp;rdquo;,&amp;ldquo;reference&amp;rdquo;:&amp;ldquo;choice&amp;rdquo;,&amp;ldquo;label&amp;rdquo;:&amp;ldquo;Choice&amp;rdquo;,&amp;ldquo;required&amp;rdquo;:true}],&amp;ldquo;block&amp;rdquo;:{&amp;ldquo;type&amp;rdquo;:&amp;ldquo;tripetto-block-multiple-choice&amp;rdquo;,&amp;ldquo;version&amp;rdquo;:&amp;ldquo;5.0.3&amp;rdquo;,&amp;ldquo;choices&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;71207952414223c5fae6a1e961653e78101da9bb11697f4da21fbc4d76f19d3a&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;Redditor&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;d1bb8684f5495875f099571a855eab1ae96b16c005ec2b3e4128640c2c5b7add&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;Orangered&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;30b17f29b7e4f1411bb85fae2603e37b2d112a498856abfd836b2d5a07e6f4c2&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;Periwinkle&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;fa7e7bf736ff174714e3505401b481375c43392b01863332304937fb2cf43bc5&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;Discord-only User&amp;rdquo;,&amp;ldquo;description&amp;rdquo;:&amp;ldquo;In case you&amp;rsquo;re here because of CasCon Discord AND don&amp;rsquo;t access the subreddit&amp;rdquo;}],&amp;ldquo;required&amp;rdquo;:true}}]},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;2dd2b328710134cb91a7c0cfec6edd45e14bccc1ecb13f9ebeb2282af096a708&amp;rdquo;,&amp;ldquo;nodes&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;e0d1905aeca33b68a986dd3a082e14de9dca711aa5cf64e3b3d23bf924a91b59&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;quot;@fd037f306b32a9fdcfb88fbcd0cac140ab31da4d97ae533c8966e1b48eafc25b, what is your age group?&amp;rdquo;,&amp;ldquo;nameVisible&amp;rdquo;:true,&amp;ldquo;description&amp;rdquo;:&amp;ldquo;If you happen to be lower than 13, it&amp;rsquo;s actually illegal to continue&amp;hellip;&amp;rdquo;,&amp;ldquo;slots&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;71b2cc274353e4d473c10f044fd1b630402fa5f93add408b6e16ad644c8313e7&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;string&amp;rdquo;,&amp;ldquo;kind&amp;rdquo;:&amp;ldquo;static&amp;rdquo;,&amp;ldquo;reference&amp;rdquo;:&amp;ldquo;button&amp;rdquo;,&amp;ldquo;label&amp;rdquo;:&amp;ldquo;Selected button&amp;rdquo;,&amp;ldquo;required&amp;rdquo;:true}],&amp;ldquo;block&amp;rdquo;:{&amp;ldquo;type&amp;rdquo;:&amp;ldquo;tripetto-block-radiobuttons&amp;rdquo;,&amp;ldquo;version&amp;rdquo;:&amp;ldquo;6.0.1&amp;rdquo;,&amp;ldquo;buttons&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;e6d97fd1bfc049022879fe668ddf31adabfd4c6d25b27c0939679551b9171422&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;13 - 18&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;84c3e912ba3303c467cbc3699d2ffbebd31abc5134ce2f0d42cc2d414977d7d8&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;19 - 24&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;8c40e20433e23d40cd50391aaa0c41b854b8a8352413ff9f0916d3c2f7ae16b0&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;25 - 29&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;133917ddd2b5c666c6507eec5168a04ad1bbb139e24f4f3114090629911cc67d&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;30 - 39&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;4bbe375212009c6b97f35d3bfabdcae1ef9ca3cc8a909326b0b741f80f675b56&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;40 - 59&amp;rdquo;},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;2d69ba3c8e135eec030d4bd285a5f5701e346f1d2981bd2515d7039f3c9f31a4&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;60+&amp;quot;}]}}]},{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;3e5d4ac5f7a111b30c8db170ad8062f46a02e966fd3d598a0bfa9fa911968d05&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;ldquo;Gender identity&amp;rdquo;,&amp;ldquo;nodes&amp;rdquo;:[{&amp;ldquo;id&amp;rdquo;:&amp;ldquo;7a27f413b0abf8f1b5c57c62db37fc31f9612658b38bfffebae196cb3060b410&amp;rdquo;,&amp;ldquo;name&amp;rdquo;:&amp;quot;@fd037f306b32a9fdcfb88fbcd0cac140ab31da4d97ae533c8966e1b48eafc25b, what is the gender do you identify with?</description>
-    </item>
-    
-    <item>
-      <title>Afantasia e Utopia</title>
-      <link>https://www.tetizeraz.online/bipolar/aphantasia-and-utopia/</link>
-      <pubDate>Mon, 09 Aug 2021 19:15:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/bipolar/aphantasia-and-utopia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Afantasia e Utopia</title>
-      <link>https://www.tetizeraz.online/bipolar/afantasia-e-utopia/</link>
-      <pubDate>Mon, 09 Aug 2021 19:14:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/bipolar/afantasia-e-utopia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Por que eu me arrependi do meu voto a Tabata Amaral em 2021</title>
-      <link>https://www.tetizeraz.online/posts/pq-desisti-da-tabata/</link>
-      <pubDate>Fri, 06 Aug 2021 14:12:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/posts/pq-desisti-da-tabata/</guid>
-      <description>O que segue aqui é uma crítica e um desabafo de um ex-apoiador da Tabata Amaral. Tabata sem acento!
-Mas antes de sair falando coisas negativas, eu quero começar com um elogio e um reconhecimento: Como pessoa, a Tabata Amaral é uma boa política. Não no sentido que me representa, como não é mais o caso, mas como ela sabe ser proativa e tocar os pauzinhos na Câmara dos Deputados. Ela tem um movimento, o Acredito, e está junto com outros dois políticos, incluindo um senador, para mover certas moções de forma mais rápida.</description>
-    </item>
-    
-    <item>
-      <title>Aceitação</title>
-      <link>https://www.tetizeraz.online/bipolar/test/</link>
-      <pubDate>Thu, 05 Aug 2021 16:00:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/bipolar/test/</guid>
-      <description>&lt;h1 id=&#34;oração-da-serenidade&#34;&gt;Oração da serenidade&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Concedei-nos Senhor, a serenidade necessária.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Para aceitar as coisas que não podemos modificar,&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Coragem para modificar aquelas que podemos,&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;E sabedoria para distinguir uma das outras.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>Aceitação</title>
-      <link>https://www.tetizeraz.online/posts/aceitacao/</link>
-      <pubDate>Thu, 05 Aug 2021 16:00:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/posts/aceitacao/</guid>
-      <description>&lt;h1 id=&#34;oração-da-serenidade&#34;&gt;Oração da serenidade&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Concedei-nos Senhor, a serenidade necessária.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Para aceitar as coisas que não podemos modificar,&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Coragem para modificar aquelas que podemos,&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;E sabedoria para distinguir uma das outras.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>Como a pandemia mostrou como são importantes as comunidades virtuais: do WhatsApp ao Discord, trabalhamos, convivemos e nos abraçamos por redes</title>
-      <link>https://www.tetizeraz.online/posts/redes-sociais-pandemia/</link>
-      <pubDate>Sun, 11 Jul 2021 13:04:00 +0300</pubDate>
-      
-      <guid>https://www.tetizeraz.online/posts/redes-sociais-pandemia/</guid>
-      <description>Desde que a pandemia do COVID-19 começou no Brasil e no mundo, a principal medida preventiva foram o distanciamento e o isolamento sociais, às vezes impostos por governos, às vezes voluntários (caso do Brasil, que nunca teve lockdown). Hoje, mesmo com os avanços na vacinação em vários países, nosso país está sendo lento na vacinação. Enquanto isso não passa, as pessoas se refugiam em suas casas, e, quem pode, trabalha de forma remota.</description>
     </item>
     
   </channel>

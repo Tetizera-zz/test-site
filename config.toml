@@ -18,6 +18,11 @@ name       = "Bipolaridade"
 url        = "/bipolar/"
 weight     = 20
 
+[[menu.main]]
+identifier = "computer withc"
+name       = "Computer OS witch"
+url        = "/computer-witch/"
+weight     = 20
 
 [params]
     themeColor = "theme-base-08"

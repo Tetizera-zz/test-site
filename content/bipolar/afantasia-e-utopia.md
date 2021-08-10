@@ -17,7 +17,7 @@ Para mim, sinto que imaginar de uma forma diferente o mundo me impede de me torn
 
 Vamos generalizar para a política: há simplesmente coisas que são permanentes para mim, como certas coisas morais ou éticas, o que eu acho certo e o que eu acho errado, e tantas outras coisas.
 
-O anarquismo, pelo que eu entendo, promove a igualdade e a liberdade de uma sociedade sob a tirania do Estado. Há várias vertentes do anarquismo sobre o que pode substituir a figura do Estado. Há, inclusive, vertentes que simplesmente dizem que não é necessário substituir o Estado por nada.
+O anarquismo, pelo que eu entendo, promove a igualdade e a liberdade de uma sociedade contra a tirania do Estado. Há várias vertentes do anarquismo sobre o que pode substituir a figura do Estado. Há, inclusive, vertentes que simplesmente dizem que não é necessário substituir o Estado por nada.
 
 Uma das coisas que alguns anarquistas acreditam ser necessário em uma anarquia é o voto direto. Eu sou completamente contra essa proposta do seu jeito padrão, que seria dar a toda pessoa o direito ao voto em qualquer decisão. Numa sociedade existirão questões muito técnicas ou teóricas como educação, saúde, segurança, saneamento etc. Atualmente, você precisa de políticos para aumentar ou liberar verba para projetos, aprovar ou negar verba ou uma lei ou medida nova, entre outras coisas. Mas também há o aspecto técnico da coisa. Eu espero que um político saiba lidar com os trâmites burocráticos e as informações necessárias para saber se ele deve aprovar ou negar uma lei ou medida. Ele vai ter não só ele para fazer a decisão, mas uma assessoria e os funcionários públicos em qualquer nível burocrático (federal/estadual/municipal) para lhe aconselhar. Obviamente haverá muito *lobbying* e corrupção também, ainda mais quando estamos falando de dinheiro para verbas.
 
@@ -26,3 +26,7 @@ Algumas pessoas, acredito eu, nascem com condições permanentes que as impedem 
 Para adaptar uma famosa citação, você não nasce socialista ou comunista, mas aí que está: Você até pode, caso tenha crescido em uma casa conservadora ou liberal, se tornar uma pessoa de esquerda. Obviamente há casos de pessoas que eram conservadoras radicais que hoje são ferrenhos comunistas. Mas nós somos humanos, lógicos e emotivos, e teremos certos preceitos eternos que surgem do mais íntimo do nosso ser. Coisas que temos respostas para certas coisas que são automáticas, irracionais. 
 
 Algumas pessoas veem beleza no mundo, outras sequer conseguem imaginar essa beleza.
+
+---
+
+As pessoas em r/changemyview disseram que meu texto fazia pouco sentido, então eu apaguei o post lá. Quando eu estava conversando com minha psicóloga pois eu estava me sentindo um pouco maníaco, eu tinha pensado neste texto. Este é provavelmente o produto da referida mania.
