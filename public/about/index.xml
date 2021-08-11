@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Tet&#39;s Blog</title>
+    <title>Abouts on Tet&#39;s Blog</title>
     <link>https://www.tetizeraz.online/about/</link>
-    <description>Recent content in About on Tet&#39;s Blog</description>
+    <description>Recent content in Abouts on Tet&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 17 Jul 2021 20:59:07 -0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 19:14:01 +0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://www.tetizeraz.online/about/about/</link>
+      <pubDate>Tue, 10 Aug 2021 19:14:01 +0300</pubDate>
+      
+      <guid>https://www.tetizeraz.online/about/about/</guid>
+      <description>I&amp;rsquo;m a young person who studies programming for two years and dropped out in 2018. I have been dealing with my mental health since then, and in 2019 I found out I was bipolar (I would later discover it was bipolar type II). This year I hope to study to enroll in a journalism college next year by taking ENEM and getting a good grade to get a discount in a private university.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.tetizeraz.online/about/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tetizeraz.online/about/sobre/</guid>
+      <description>Sou um jovem que estuda programação por dois anos e abandonou a escola em 2018. Tenho lidado com minha saúde mental desde então, e em 2019 descobri que era bipolar (descobriria mais tarde que era bipolar tipo II). Este ano, espero estudar para me matricular em uma faculdade de jornalismo no próximo ano tomando ENEM e obtendo uma boa nota para obter um desconto em uma universidade particular.
+Se por acaso você conhecer um jornalista que possa me dar dicas sobre o trabalho, me avise em minha mídia social!</description>
+    </item>
+    
   </channel>
 </rss>
