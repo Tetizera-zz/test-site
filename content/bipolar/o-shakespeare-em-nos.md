@@ -19,3 +19,7 @@ O vídeo, na verdade uma palestra para desenvolvedores de jogos, dizia que o mun
 Dito isso, penso que isso não se restringe apenas ao mundo dos jogos. Sim, já temos filmes, séries, livros, etc bem estabelecidos com milhões de seguidores, e alguns podem ser ditos como pequenos Shakespeare modernos. Isso só a história vai dizer. Mas ainda podemos usar a "métrica Shakespare" para medir nossa ambição e nossos objetivos. Ora, quero ser jornalista, então porque não tentar o meu melhor? Por que não ser prolífico e tentar o máximo? Obviamente, é necessário moderação para evitar o *burnout* que tanto se houve. Mas não entendo ou senti *burnout* no passado, então não sei o que é isso. Estou sempre no 8 ou 80. Ou estou produzindo nada ou eu produzo muito.
 
 Não sei se 
+
+--
+
+Ficou claro pro meu psiquiatra que esse post era produto da minha mania e auto-confiança. É um exagero logo no primeiro parágrafo. Na mania, temos [fuga de ideias](https://en.wikipedia.org/wiki/Racing_thoughts) e falamos, escrevemos ou desenhamos muito, mas nada faz sentido.
