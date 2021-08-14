@@ -7,7 +7,7 @@ date: 2021-08-14 19:14:01 +0300
 
 A não ser que a página acessada esteja mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
 
-##### CC0 1.0 Universal (CC0 1.0) - Dedicação ao Domínio Público 
+##### CC0 1.0 Universal (CC0 1.0) - Dedicação ao Domínio Público (texto completo no seguinte link: https://creativecommons.org/publicdomain/zero/1.0/)
 
 Sem Direito de Autor nem Direitos Conexos
 
@@ -28,7 +28,7 @@ Você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins 
 
 A não ser que a página acessada esteja mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
 
-##### CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication
+##### CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication (complete text in the following link: https://creativecommons.org/publicdomain/zero/1.0/)
 
 The person who has linked a work to this abstract has dedicated the work to the public domain, waiving all of his or her rights under copyright and/or related rights laws pertaining to the work, worldwide, to the extent permitted by law.
 
