@@ -19,16 +19,22 @@ url        = "/bipolar/"
 weight     = 20
 
 [[menu.main]]
-identifier = "computer witch"
-name       = "Computer OS witch"
-url        = "/computer-witch/"
-weight     = 20
+identifier = "Sobre/About"
+name       = "Sobre/About"
+url        = "/about/"
+weight     = 30
 
 [[menu.main]]
 identifier = "Licença/License"
 name       = "Licença/License"
 url        = "/licença/"
-weight     = 30
+weight     = 40
+
+[[menu.main]]
+identifier = "computer witch"
+name       = "Computer OS witch"
+url        = "/computer-witch/"
+weight     = 70
 
 [params]
     themeColor = "theme-base-08"
