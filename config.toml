@@ -19,10 +19,16 @@ url        = "/bipolar/"
 weight     = 20
 
 [[menu.main]]
-identifier = "computer withc"
+identifier = "computer witch"
 name       = "Computer OS witch"
 url        = "/computer-witch/"
 weight     = 20
+
+[[menu.main]]
+identifier = "Licença/License"
+name       = "Licença/License"
+url        = "/licença/"
+weight     = 30
 
 [params]
     themeColor = "theme-base-08"
