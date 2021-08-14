@@ -6,7 +6,27 @@
     <description>Recent content on Tet&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 10 Aug 2021 19:14:01 +0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 19:14:01 +0300</lastBuildDate><atom:link href="https://www.tetizeraz.online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://www.tetizeraz.online/about/licen%C3%A7a/licensa-license/</link>
+      <pubDate>Sat, 14 Aug 2021 19:14:01 +0300</pubDate>
+      
+      <guid>https://www.tetizeraz.online/about/licen%C3%A7a/licensa-license/</guid>
+      <description>PT-BR A não ser que a página acessada esteja mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
+CC0 1.0 Universal (CC0 1.0) - Dedicação ao Domínio Público (texto completo no seguinte link: https://creativecommons.org/publicdomain/zero/1.0/) Sem Direito de Autor nem Direitos Conexos
+A pessoa que associou um trabalho a este resumo dedicou o trabalho ao domínio público, renunciando a todos os seus direitos sob as leis de direito de autor e/ou de direitos conexos referentes ao trabalho, em todo o mundo, na medida permitida por lei.</description>
+    </item>
+    
+    <item>
+      <title>O Shakespeare em cada um de nós</title>
+      <link>https://www.tetizeraz.online/bipolar/o-shakespeare-em-nos/</link>
+      <pubDate>Wed, 11 Aug 2021 09:14:00 +0300</pubDate>
+      
+      <guid>https://www.tetizeraz.online/bipolar/o-shakespeare-em-nos/</guid>
+      <description>Esse texto eu pensei quando ouvi um vídeo sobre os easter eggs dentro dos jogos e as obras dos grandes músicos, a bíblia de King James e Shakespare. O vídeo dizia que easter eggs são só pequenas curiosidades nos jogos que viciam mas não são interessantes. As grandes obras musicais, a tradução da bíblia em inglês e as obras de Shakespeare, entretanto, causavam a sensação ou emoção de &amp;ldquo;awe&amp;rdquo; ou &amp;ldquo;awesome&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://www.tetizeraz.online/about/about/</link>
@@ -17,12 +37,13 @@
     </item>
     
     <item>
-      <title>O Shakespeare em cada um de nós</title>
-      <link>https://www.tetizeraz.online/bipolar/o-shakespeare-em-nos/</link>
-      <pubDate>Tue, 10 Aug 2021 09:14:00 +0300</pubDate>
+      <title>Sobre mim</title>
+      <link>https://www.tetizeraz.online/about/sobre/</link>
+      <pubDate>Tue, 10 Aug 2021 19:14:00 +0300</pubDate>
       
-      <guid>https://www.tetizeraz.online/bipolar/o-shakespeare-em-nos/</guid>
-      <description>Esse texto eu pensei quando ouvi um vídeo sobre os easter eggs dentro dos jogos e as obras dos grandes músicos, a bíblia de King James e Shakespare. O vídeo dizia que easter eggs são só pequenas curiosidades nos jogos que viciam mas não são interessantes. As grandes obras musicais, a tradução da bíblia em inglês e as obras de Shakespeare, entretanto, causavam a sensação ou emoção de &amp;ldquo;awe&amp;rdquo; ou &amp;ldquo;awesome&amp;rdquo;.</description>
+      <guid>https://www.tetizeraz.online/about/sobre/</guid>
+      <description>Sou um jovem que estuda programação por dois anos e abandonou a escola em 2018. Tenho lidado com minha saúde mental desde então, e em 2019 descobri que era bipolar (descobriria mais tarde que era bipolar tipo II). Este ano, espero estudar para me matricular em uma faculdade de jornalismo no próximo ano tomando ENEM e obtendo uma boa nota para obter um desconto em uma universidade particular.
+Se por acaso você conhecer um jornalista que possa me dar dicas sobre o trabalho, me avise em minha mídia social!</description>
     </item>
     
     <item>
@@ -59,7 +80,8 @@ Mas antes de sair falando coisas negativas, eu quero começar com um elogio e um
       <pubDate>Thu, 05 Aug 2021 20:00:00 +0300</pubDate>
       
       <guid>https://www.tetizeraz.online/computer-witch/computer-horoscope/</guid>
-      <description>Privacy disclaimer: This site doesn&#39;t collect your IP or track you. I don&#39;t have Netlify Analytics in my site, so no idea who you are. Tripetto probably tracks your IP and basic metadata to avoid users submitting the form again, but I&#39;m not sure. In any case, I don&#39;t collect your IP, Reddit username, or any information that could single out you.This Tripetto form makes some personal question such as age group and country, but you&#39;re free to pick &#34;</description>
+      <description>[en] Privacy disclaimer: This site doesn&#39;t collect your IP or track you. I don&#39;t have Netlify Analytics in my site, so no idea who you are. Tripetto probably tracks your IP and basic metadata to avoid users submitting the form again, but I&#39;m not sure. In any case, I don&#39;t collect your IP, Reddit username, or any information that could single out you.
+This Tripetto form makes some personal question such as age group and country, but you&#39;re free to not answer them and go straight to the horoscope</description>
     </item>
     
     <item>
@@ -90,16 +112,6 @@ Mas antes de sair falando coisas negativas, eu quero começar com um elogio e um
       
       <guid>https://www.tetizeraz.online/posts/redes-sociais-pandemia/</guid>
       <description>Desde que a pandemia do COVID-19 começou no Brasil e no mundo, a principal medida preventiva foram o distanciamento e o isolamento sociais, às vezes impostos por governos, às vezes voluntários (caso do Brasil, que nunca teve lockdown). Hoje, mesmo com os avanços na vacinação em vários países, nosso país está sendo lento na vacinação. Enquanto isso não passa, as pessoas se refugiam em suas casas, e, quem pode, trabalha de forma remota.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.tetizeraz.online/about/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tetizeraz.online/about/sobre/</guid>
-      <description>Sou um jovem que estuda programação por dois anos e abandonou a escola em 2018. Tenho lidado com minha saúde mental desde então, e em 2019 descobri que era bipolar (descobriria mais tarde que era bipolar tipo II). Este ano, espero estudar para me matricular em uma faculdade de jornalismo no próximo ano tomando ENEM e obtendo uma boa nota para obter um desconto em uma universidade particular.
-Se por acaso você conhecer um jornalista que possa me dar dicas sobre o trabalho, me avise em minha mídia social!</description>
     </item>
     
   </channel>
