@@ -4,7 +4,7 @@ title = "Tet's Blog"
 themesDir = "themes"
 theme = "hyde"
 author = "Tet"
-sectionPagesMenu = "main"
+
 
 [[menu.main]]
 identifier = "posts"
