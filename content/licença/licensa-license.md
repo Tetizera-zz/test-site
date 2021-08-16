@@ -6,7 +6,7 @@ date: 2021-08-14 19:14:01 +0300
 
 ### PT-BR
 
-A não ser que a página acessada esteja mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
+A não ser que a página acessada esteja explicitamente mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
 
 ##### CC0 1.0 Universal (CC0 1.0) - Dedicação ao Domínio Público (texto completo no seguinte link: https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -27,7 +27,7 @@ Você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins 
 
 ### EN
 
-A não ser que a página acessada esteja mencionando algum tipo de licença copyright ou copyleft, a seguinte licença é aplicada nos conteúdos:
+Unless the page accessed is explicitly  mentioning some kind of copyright or copyleft license, the following license is applied to the contents:
 
 ##### CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication (complete text in the following link: https://creativecommons.org/publicdomain/zero/1.0/)
 

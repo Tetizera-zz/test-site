@@ -1,6 +1,7 @@
 {{ define "main" -}}
 <div class="posts">
-{{ range .Site.RegularPages -}}
+{{ $pages := where  site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{ range $pages -}}
 <article class="post">
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
