@@ -3,6 +3,7 @@ title: "A leitura agora é compartilhada com milhares de pessoas: como ler ao vi
 date: 2021-07-11 13:04:00 +0300
 draft: true
 
+
 ---
 
 A leitura é caracterizada por ser normalmente uma atividade isolada: lemos sentados ou deitados, talvez tomando um café ou chá, e pensando sobre o texto enquanto lemos. Mas também é comum que pessoas leiam para você, seja trechos oulivros inteiros, principalmente para bebês e crianças. Antes da pandemia, livrarias tinham dias dedicados à leitura de um conto de fadas ou uma fábula para uma plateia de pais e crianças. Com o YouTube, essa atividade não ficou limitada às livrarias, permitindo ouvir alguém narrar um livro curto. Essa atividade precede a pandemia, mas parece que a prática se expandiu e tomou novos rumos, servindo inclusive para o ativismo digital.

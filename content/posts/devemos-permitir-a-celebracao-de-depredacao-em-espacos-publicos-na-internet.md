@@ -1,7 +1,8 @@
 ---
-title: "Aceitação"
+title: "Uma discussão sobre depredação de monumentos pelo ponto de vista de um moderador do r/brasil"
 date: 2021-08-05 16:00:00 +0300
 draft: true
+
 
 ---
 

@@ -2,6 +2,7 @@
 title: "Aceitação"
 date: 2021-08-05 16:00:00 +0300
 
+
 ---
 # Oração da serenidade
 

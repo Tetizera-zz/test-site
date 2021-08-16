@@ -2,6 +2,7 @@
 title: "O Shakespeare em cada um de nós"
 date: 2021-08-11 09:14:00 +0300
 
+
 ---
 
 Esse texto eu pensei quando ouvi um vídeo sobre os *easter eggs* dentro dos jogos e as obras dos grandes músicos, a bíblia de King James e Shakespare. O vídeo dizia que *easter eggs* são só pequenas curiosidades nos jogos que viciam mas não são interessantes. As grandes obras musicais, a tradução da bíblia em inglês e as obras de Shakespeare, entretanto, causavam a sensação ou emoção de "awe" ou "awesome". O Google diz que "awe" traduz para "temor", mas acho que "incrível" seria uma tradução melhor. Coisas incríveis, como o vídeo disse:
