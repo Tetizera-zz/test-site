@@ -1,6 +1,6 @@
 {{ define "main" -}}
 <div class="posts">
-{{ range where .Site.Recent "posts" "about" -}}
+{{ range .Site.RegularPages -}}
 <article class="post">
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -12,7 +12,6 @@
     <a href="{{ .RelPermalink }}">Read More…</a>
   </div>
   {{ end }}
-  
 </article>
 {{- end }}
 </div>

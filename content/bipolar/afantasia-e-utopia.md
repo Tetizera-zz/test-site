@@ -32,4 +32,4 @@ Algumas pessoas veem beleza no mundo, outras sequer conseguem imaginar essa bele
 
 As pessoas em r/changemyview disseram que meu texto fazia pouco sentido, então eu apaguei o post lá. Quando eu estava conversando com minha psicóloga pois eu estava me sentindo um pouco maníaco, eu tinha pensado neste texto. Este é provavelmente o produto da referida mania.
 
-Como ficou claro para o pessoal do r/changemyview, meu psiquiatra disse que meu post não tem faz sentido algum. É puro produto da minha mania e auto-confiança em posts.
+Como ficou claro para o pessoal do r/changemyview e pra minha, e meu psiquiatra tamvém disse que meu post não tem faz sentido algum. É puro produto da minha mania, a fuga de ideias, e a auto-confiança em posts.
